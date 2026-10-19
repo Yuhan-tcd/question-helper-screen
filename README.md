@@ -23,7 +23,7 @@ python3 -m venv .venv
 .venv/bin/python ic_chatgpt_hotkey.py
 ```
 
-也可以双击 `ic_chatgpt.command`。首次使用全局快捷键时，请在 macOS 的“系统设置 → 隐私与安全性 → 辅助功能”中允许终端访问。
+也可以在终端运行 `zsh ic_chatgpt.command`；若要双击启动，先运行 `chmod +x ic_chatgpt.command`。首次使用全局快捷键时，请在 macOS 的“系统设置 → 隐私与安全性 → 辅助功能”中允许终端访问。
 
 - 按 **Command + Shift + K**，然后拖动鼠标框选题目。
 - 也可以在终端按 **Enter** 触发截图。
