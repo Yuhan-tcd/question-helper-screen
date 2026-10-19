@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.log
+*.lock
+course_materials/*
+!course_materials/README.md
